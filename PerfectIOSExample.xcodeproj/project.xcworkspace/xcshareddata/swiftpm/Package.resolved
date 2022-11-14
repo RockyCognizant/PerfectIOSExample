@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "perfectios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RockfordWei/PerfectIOS",
+      "state" : {
+        "revision" : "cef34253132a03268263f5df1fba5774ee76c98f",
+        "version" : "5.4.0"
+      }
+    }
+  ],
+  "version" : 2
+}
